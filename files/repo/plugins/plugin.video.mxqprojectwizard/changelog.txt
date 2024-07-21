@@ -1,0 +1,10 @@
+v1.0.2
+- Updated to containt all currrent builds
+- Added The MXQ Project Build
+- Updated artwork and descriptions
+
+v1.0.1
+Updated artwork
+
+v1.0.0
+Initial Release

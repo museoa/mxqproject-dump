@@ -1,0 +1,13 @@
+name="The MXQ Project Build"
+url="http://mxqproject.com/files/mxqbuild/Wizard/themxqbuild.zip"
+img="http://mxqproject.com/files/mxqbuild/Wizard/icon.png"
+fanart="http://mxqproject.com/files/mxqbuild/Wizard/fanart.png"
+description="A super-lightweight build by The MXQ Project"
+
+name="The MXQ Project - Retro Gaming Experience"
+url="http://mxqproject.com/files/gamingbuild/wizard/mxqgaming.zip"
+img="http://mxqproject.com/files/gamingbuild/wizard/icon.png"
+fanart="http://mxqproject.com/files/gamingbuild/wizard/fanart.png"
+description="The official MXQ Project Retro Gaming build installer"
+
+

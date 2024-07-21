@@ -1,0 +1,6 @@
+[B]version 1.0.2[/B]
+- Updated artwork
+- Removed 'The MXQ Project Build' for maintenance
+
+[B]Version 1.0[/B]
+- Initial version

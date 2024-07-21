@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /files/repo/plugins/plugin.video.mxqprojectwizard</title>
+ </head>
+ <body>
+<h1>Index of /files/repo/plugins/plugin.video.mxqprojectwizard</h1>
+  <table>
+   <tr><th valign="top">&nbsp;</th><th><a href="?C=N;O=A">Name</a></th><th><a href="?C=M;O=D">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="/files/repo/plugins/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="addon.xml">addon.xml</a></td><td align="right">2021-09-15 06:18  </td><td align="right">659 </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="changelog.txt">changelog.txt</a></td><td align="right">2021-09-15 06:18  </td><td align="right">161 </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="default.py">default.py</a></td><td align="right">2021-09-15 06:18  </td><td align="right">8.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="downloader.py">downloader.py</a></td><td align="right">2021-09-15 06:18  </td><td align="right">619 </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="extract.py">extract.py</a></td><td align="right">2021-09-15 06:18  </td><td align="right">738 </td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="icon.png">icon.png</a></td><td align="right">2021-09-15 06:18  </td><td align="right"> 51K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="plugin.video.mxqprojectwizard-1.0.2.zip">plugin.video.mxqprojectwizard-1.0.2.zip</a></td><td align="right">2021-09-15 06:18  </td><td align="right"> 80K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="plugintools.py">plugintools.py</a></td><td align="right">2021-09-15 06:18  </td><td align="right">3.7K</td><td>&nbsp;</td></tr>
+<tr><td valign="top">&nbsp;</td><td><a href="resources/">resources/</a></td><td align="right">2021-09-15 06:18  </td><td align="right">  - </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+</body></html>
